@@ -23,3 +23,7 @@ What are some situations when branches would be helpful in keeping your history 
 
     A situation in which keeping history organized is important is when trying experimental features or changes,
     but you do not want to change the master branch. 
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams help visualize the history of a repository. 
