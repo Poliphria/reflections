@@ -12,3 +12,10 @@ What value do you think it offers?
     It acts as a place to hold files that are waiting to be commited. The value it offers
     is more flexibility because you are able to choose what you want to commit or if you end
     up not wanting to commit something you can remove it with 'git reset <file>'
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    You can use the staging area to compare the differences between working directory 
+    and the staging area (initial staging area will have same files as the commit you are
+    on).
+    
