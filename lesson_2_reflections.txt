@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    When you run 'git init' a '.git' directory is made in the directory 
+    that you ran init on and it holds metadata on the revision history 
+    of files in that directory. You need to do it otherwise git cannot
+    commit or show file history. 
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    The staging area is like a middle man between the repository and the working directory.
+    It acts as a place to hold files that are waiting to be commited. The value it offers
+    is more flexibility because you are able to choose what you want to commit or if you end
+    up not wanting to commit something you can remove it with 'git reset <file>'
