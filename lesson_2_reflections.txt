@@ -33,3 +33,10 @@ What is the result of merging two branches together? Why do we represent it in t
     The result of merging two branches together is that the master branch's latest commit 
     node will have a parent of both the master branch and the merged branch, but it will 
     now all be part of the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    The pros is that it will work most of the time, but sometimes 
+    it won't know what to do. Merging manually is a pain, but in the 
+    cases that git can't merge the branches, it is preferrable to look 
+    over the code and do it yourself to avoid crashing your program.    
