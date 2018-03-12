@@ -26,3 +26,10 @@ of the remote stored locally?
 
   The benefit is that in case you go offline you always will know the state
   of the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+  Collaborating without Git or GitHub would involve a lot of travelling 
+  or sending files to each other manually that would be ineffecient. It would
+  be harder to collaborate as quickly. 
