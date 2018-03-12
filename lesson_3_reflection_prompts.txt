@@ -33,3 +33,11 @@ and what would be harder?
   Collaborating without Git or GitHub would involve a lot of travelling 
   or sending files to each other manually that would be ineffecient. It would
   be harder to collaborate as quickly. 
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have? 
+
+ This approach has benefits because there might be conflicts between the master 
+ branch and your branch that may break the code. Changing on the master branch
+ has its upsides becuase it's a tad less work rather than working with branches
+ and having to pull manually. 
