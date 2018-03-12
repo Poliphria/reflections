@@ -20,3 +20,9 @@ When would you use one instead of another?
   copy it to your local machine. Use this when you want to grab from github to laptop.
   Forks are when you want to give credit to someone before you make changes on github 
   and copy their repository to your GitHub account. 
+
+What is the benefit of having a copy of the last known state
+of the remote stored locally?
+
+  The benefit is that in case you go offline you always will know the state
+  of the remote repository.
